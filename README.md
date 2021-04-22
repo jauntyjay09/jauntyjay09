@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I love Developing Application and programming. Always intrested in solving real world challenges with technology . I have experience in developing Conversational AI Chatbot,Web and Mobile Apps and Coding. I am Currently learning and working on a flutter based project. I am open for collaboration .
+
+reach me via 
+email:mhkjayakumar@gmail.com
+Linkedin:https://www.linkedin.com/in/jayakumarmhk/
+
