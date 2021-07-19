@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love Developing Application and programming. Always intrested in solving real world challenges with technology . I have experience in developing Conversational AI Chatbot,Web and Mobile Apps and Coding. I am Currently learning and working on a flutter based project. I am open for collaboration .
+I love Developing Application and programming.Intrested in solving real world challenges with technology . I have experience in developing Conversational AI Chatbot,Web and Mobile Apps and Coding. I am Currently learning and working on a flutter based project.
 
 reach me via 
 email:mhkjayakumar@gmail.com
